@@ -58,8 +58,7 @@ The chatbot can respond to common queries such as:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/faq-chatbot-python.git
-cd faq-chatbot-python
+https://github.com/Rajesh4619/Chatbot.git
 ```
 
 2. Install the required dependencies:
