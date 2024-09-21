@@ -1,6 +1,3 @@
-Here's the updated README file with a focus on Python (without Flask):
-
----
 
 # FAQ Chatbot with NLTK
 
@@ -58,7 +55,7 @@ The chatbot can respond to common queries such as:
 1. Clone the repository:
 
 ```bash
-https://github.com/Rajesh4619/Chatbot.git
+git clone https://github.com/Rajesh4619/Chatbot.git
 ```
 
 2. Install the required dependencies:
